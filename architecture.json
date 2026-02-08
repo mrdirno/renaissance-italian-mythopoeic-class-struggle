@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-mythopoeic-class-struggle",
+  "title": "The Stone's Silent Conversation",
+  "tagline": "In a city built on ambition, a laborer who sees the soul of stone must hide his genius from the masters who own his hands.",
+  "target_words": 70928,
+  "actual_words": 70928,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Geometry of Power",
+    "Hidden Genius and Suppressed Knowledge",
+    "The Myth of Stone and Flesh",
+    "Sacred Ambition and Profane Labor"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ramp's Treacherous Angle",
+      "words": 5910
+    },
+    {
+      "ch": 2,
+      "title": "The Alchemy of Green Dust",
+      "words": 5910
+    },
+    {
+      "ch": 3,
+      "title": "The Cardinal's Vanishing Peacock",
+      "words": 5910
+    },
+    {
+      "ch": 4,
+      "title": "A Whisper in the Grain",
+      "words": 5910
+    },
+    {
+      "ch": 5,
+      "title": "The Hook in the Dark",
+      "words": 5910
+    },
+    {
+      "ch": 6,
+      "title": "The River's Black Confession",
+      "words": 5910
+    },
+    {
+      "ch": 7,
+      "title": "Cargo in the Bilge",
+      "words": 5910
+    },
+    {
+      "ch": 8,
+      "title": "The Gullet of the Alley",
+      "words": 5910
+    },
+    {
+      "ch": 9,
+      "title": "The Complaint of the Axle",
+      "words": 5910
+    },
+    {
+      "ch": 10,
+      "title": "The City's Stone Ledger",
+      "words": 5910
+    },
+    {
+      "ch": 11,
+      "title": "The Benevolence of Pietra Serena",
+      "words": 5910
+    },
+    {
+      "ch": 12,
+      "title": "A Perfect Circle, Square and True",
+      "words": 5910
+    }
+  ]
+}
